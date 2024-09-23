@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, I'm Vishwas Bhambhani</h1>
-<h3 align="center">A "wanna be" UI/UX designer and a Frontend Dev</h3>
+<h3 align="center">A UI/UX designer and a "wanna be" Frontend Dev</h3>
 <img src="https://gifdb.com/images/high/programming-kitten-in-keyboard-mohffqspgkrrlcgi.webp" alt="gif image" width=500/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwas904&label=Profile%20views&color=0e75b6&style=flat" alt="vishwas904" /> </p>
